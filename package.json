@@ -1,6 +1,6 @@
 {
   "name": "ddosify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Denial Of Service attack from command line.",
   "main": "ddosify.js",
   "scripts": {
