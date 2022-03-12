@@ -1,13 +1,13 @@
 {
-  "name": "dedosear",
+  "name": "ddosify",
   "version": "1.0.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "dedosear",
+      "name": "ddosify",
       "version": "1.0.0",
-      "license": "ISC",
+      "license": "WTFPL",
       "dependencies": {
         "ddos-stress": "^0.1.0",
         "yargs": "^17.3.1"
